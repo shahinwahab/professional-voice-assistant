@@ -51,25 +51,28 @@ In today's fast-paced digital environment, traditional text-based interfaces can
 
 ## User Interface
 
-### Login Experience
-![Login Screen](docs/UI/login-page.png)
-
-The login screen provides a clean, modern entry point with intuitive fields for email and password.
-
-### Account Creation
-![Signup Screen](docs/UI/signup-page.png)
-
-New users enjoy a straightforward signup process with clear guidance and validation.
-
-### Home Interface
-![Home Screen](docs/UI/home-page.png)
-
-The home screen features a welcoming assistant avatar and highlights key service capabilities.
-
-### Conversation Interface
-![Conversation Screen](docs/UI/conversation-page.png)
-
-The conversation view presents a natural chat-like experience with clear user and assistant messages.
+<table>
+  <tr>
+    <td>
+      <img src="docs/UI/login-page.png" alt="Login Screen" width="200"/>
+      <p align="center">Login Screen</p>
+    </td>
+    <td>
+      <img src="docs/UI/signup-page.png" alt="Signup Screen" width="200"/>
+      <p align="center">Signup Screen</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="docs/UI/home-page.png" alt="Home Screen" width="200"/>
+      <p align="center">Home Screen</p>
+    </td>
+    <td>
+      <img src="docs/UI/conversation-page.png" alt="Conversation Screen" width="200"/>
+      <p align="center">Conversation Screen</p>
+    </td>
+  </tr>
+</table>
 
 ## Benefits for End-Users
 
