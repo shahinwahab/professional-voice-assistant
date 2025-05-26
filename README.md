@@ -84,4 +84,4 @@ While built on sophisticated technology, the Professional Voice Assistant presen
 
 ---
 
-*Professional Voice Assistant - Bringing the future of AI interaction to your fingertips*
+*Professional Voice Assistant - Brings future of AI interaction to you*
