@@ -47,6 +47,18 @@ In today's fast-paced digital environment, traditional text-based interfaces can
 3. **Voice Response** - The answer is delivered via natural-sounding speech
 4. **Continuous Conversation** - Users can ask follow-up questions while maintaining context
 
+## Benefits for End-Users
+
+- **Efficiency** - Get answers and complete tasks faster than traditional interfaces
+- **Accessibility** - Makes technology more available to all users regardless of typing ability
+- **Learning Support** - Provides instant answers to questions without complex navigation
+- **Multitasking** - Allows users to get information while engaged in other activities
+- **Modern Experience** - Delivers the cutting-edge AI experience users expect in today's market
+
+## Technical Excellence
+
+While built on sophisticated technology, the Professional Voice Assistant presents a seamless experience that hides complexity from end-users. The application leverages state-of-the-art speech recognition, AI processing, and voice synthesis to create natural interactions that feel magical rather than technical.
+
 ## User Interface
 
 <table>
@@ -63,6 +75,8 @@ In today's fast-paced digital environment, traditional text-based interfaces can
       <img src="docs/UI/home-screen.png" alt="Home Screen" width="300" height="650"/>
       <p align="center">Home Screen</p>
     </td>
+  </tr>
+  <tr>
     <td>
       <img src="docs/UI/conversation-screen.png" alt="Conversation Screen" width="300" height="650"/>
       <p align="center">Conversation Screen</p>
@@ -70,18 +84,11 @@ In today's fast-paced digital environment, traditional text-based interfaces can
   </tr>
 </table>
 
-## Benefits for End-Users
+<p align="center">
+  <a href="docs/ui-gallery.md" style="text-decoration:none; font-weight:bold; font-size:18px; color:white; background-color:#0078d7; padding:10px 20px; border-radius:5px;">
+    ▶️ See All UI Images
+  </a>
+</p>
 
-- **Efficiency** - Get answers and complete tasks faster than traditional interfaces
-- **Accessibility** - Makes technology more available to all users regardless of typing ability
-- **Learning Support** - Provides instant answers to questions without complex navigation
-- **Multitasking** - Allows users to get information while engaged in other activities
-- **Modern Experience** - Delivers the cutting-edge AI experience users expect in today's market
-
-## Technical Excellence
-
-While built on sophisticated technology, the Professional Voice Assistant presents a seamless experience that hides complexity from end-users. The application leverages state-of-the-art speech recognition, AI processing, and voice synthesis to create natural interactions that feel magical rather than technical.
-
----
 
 *Professional Voice Assistant - Brings future of AI interaction to you*
