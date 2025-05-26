@@ -59,8 +59,6 @@ In today's fast-paced digital environment, traditional text-based interfaces can
       <img src="docs/UI/signup-page.png" alt="Signup Screen" width="200"/>
       <p align="center">Signup Screen</p>
     </td>
-  </tr>
-  <tr>
     <td>
       <img src="docs/UI/home-page.png" alt="Home Screen" width="200"/>
       <p align="center">Home Screen</p>
