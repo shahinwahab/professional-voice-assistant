@@ -87,9 +87,11 @@ While built on sophisticated technology, the Professional Voice Assistant presen
 <p align="center">
   <a href="docs/ui-gallery.md">
     <img 
-      src="https://img.shields.io/badge/See%20All%20UI%20Images-blue?style=for-the-badge" 
-      alt="See All UI Images"
-      style="width:200px; height:50px; border-radius: 25px;">
+      src="https://img.shields.io/badge/See%20All%20UI%20Images-2b90d9" 
+      alt="just the message"
+      width="200"
+      height="50"
+    >
   </a>
 </p>
 
