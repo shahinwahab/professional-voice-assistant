@@ -1,5 +1,3 @@
-# Professional Voice Assistant
-
 ## Overview
 
 The Professional Voice Assistant is a modern, cross-platform application that transforms how users interact with AI technology. Built with Flutter, this application works seamlessly across iOS, Android, and web platforms, providing a consistent and intuitive experience wherever your clients need it.
