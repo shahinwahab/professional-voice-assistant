@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "628271069351",
+    "project_id": "professional-voice-assistant",
+    "storage_bucket": "professional-voice-assistant.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628271069351:android:1a915d17287fd86334c382",
+        "android_client_info": {
+          "package_name": "com.example.pro_voice_assistant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0NcUmmcfHPXaNHcSow5FnfHbypKTSIHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
