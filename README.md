@@ -52,19 +52,19 @@ In today's fast-paced digital environment, traditional text-based interfaces can
 <table>
   <tr>
     <td>
-      <img src="docs/UI/login-screen.png" alt="Login Screen" width="250"/>
+      <img src="docs/UI/login-screen.png" alt="Login Screen" width="250" height="500"/>
       <p align="center">Login Screen</p>
     </td>
     <td>
-      <img src="docs/UI/signup-screen.png" alt="Signup Screen" width="250"/>
+      <img src="docs/UI/signup-screen.png" alt="Signup Screen" width="250" height="500"/>
       <p align="center">Signup Screen</p>
     </td>
     <td>
-      <img src="docs/UI/home-screen.png" alt="Home Screen" width="250"/>
+      <img src="docs/UI/home-screen.png" alt="Home Screen" width="250" height="500"/>
       <p align="center">Home Screen</p>
     </td>
     <td>
-      <img src="docs/UI/conversation-screen.png" alt="Conversation Screen" width="250"/>
+      <img src="docs/UI/conversation-screen.png" alt="Conversation Screen" width="250" height="500"/>
       <p align="center">Conversation Screen</p>
     </td>
   </tr>
