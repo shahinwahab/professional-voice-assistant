@@ -64,21 +64,23 @@ While built on sophisticated technology, the Professional Voice Assistant presen
 <table>
   <tr>
     <td>
-      <img src="docs/UI/login-screen.png" alt="Login Screen" width="300" height="650"/>
+      <img src="docs/UI/login-screen.png" alt="Login Screen" width="400"/>
       <p align="center">Login Screen</p>
     </td>
     <td>
-      <img src="docs/UI/signup-screen.png" alt="Signup Screen" width="300" height="650"/>
+      <img src="docs/UI/signup-screen.png" alt="Signup Screen" width="300"/>
       <p align="center">Signup Screen</p>
     </td>
     <td>
-      <img src="docs/UI/home-screen.png" alt="Home Screen" width="300" height="650"/>
+      <img src="docs/UI/home-screen.png" alt="Home Screen" width="720"/>
       <p align="center">Home Screen</p>
     </td>
   </tr>
+</table>
+<table align="center">
   <tr>
     <td>
-      <img src="docs/UI/conversation-screen.png" alt="Conversation Screen" width="300" height="650"/>
+      <img src="docs/UI/conversation-screen.png" alt="Conversation Screen" width="400" height="auto"/>
       <p align="center">Conversation Screen</p>
     </td>
   </tr>
