@@ -61,7 +61,7 @@ While built on sophisticated technology, the Professional Voice Assistant presen
 
 ## User Interface
 
-| Column 1 | Column 2 |
+| login-page| home-page |
 |----------|----------|
 | ![Image1](docs/UI/original.png) | ![Image2](docs/UI/original.png) |
 
