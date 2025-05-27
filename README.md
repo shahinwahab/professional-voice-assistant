@@ -80,7 +80,7 @@ While built on sophisticated technology, the Professional Voice Assistant presen
 <table align="center">
   <tr>
     <td>
-      <img src="docs/UI/original.png" alt="Conversation Screen" width="440" />
+      <img src="docs/UI/original.png" alt="Conversation Screen" width="400" />
       <p align="center">Conversation Screen</p>
     </td>
   </tr>
