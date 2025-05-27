@@ -61,6 +61,16 @@ While built on sophisticated technology, the Professional Voice Assistant presen
 
 ## User Interface
 
+<div style="display: flex;">
+  <div style="flex: 1; padding: 5px;">
+    <img src="docs/UI/original.png" style="width: 100%;">
+  </div>
+  <div style="flex: 1; padding: 5px;">
+    <img src="docs/UI/original.png" style="width: 100%;">
+  </div>
+</div>
+
+
 <table align="center">
   <tr>
     <td>
