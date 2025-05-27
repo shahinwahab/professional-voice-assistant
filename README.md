@@ -69,11 +69,11 @@ While built on sophisticated technology, the Professional Voice Assistant presen
 <table align="center">
   <tr>
     <td>
-      <img src="docs/UI/original.png" alt="Signup Screen" width="340"/>
+      <img src="docs/UI/original.png" alt="Signup Screen" width="320"/>
       <p align="center">Signup Screen</p>
     </td>
     <td>
-      <img src="docs/UI/original.png" alt="Home Screen" width="340"/>
+      <img src="docs/UI/original.png" alt="Home Screen" width="320"/>
       <p align="center">Home Screen</p>
     </td>
   </tr>
