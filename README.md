@@ -61,7 +61,7 @@ While built on sophisticated technology, the Professional Voice Assistant presen
 
 ## User Interface
 
-<table>
+<table align="center">
   <tr>
     <td>
       <img src="docs/UI/original.png" alt="Signup Screen" width="330"/>
