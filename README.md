@@ -66,31 +66,6 @@ While built on sophisticated technology, the Professional Voice Assistant presen
 | ![Image1](docs/UI/original.png) | ![Image2](docs/UI/original.png) |
 
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="docs/UI/original.png" alt="Signup Screen" width="300"/>
-      <p align="center">Signup Screen</p>
-    </td>
-    <td>
-      <img src="docs/UI/original.png" alt="Home Screen" width="300"/>
-      <p align="center">Home Screen</p>
-    </td>
-  </tr>
-</table>
-<table align="center">
-  <tr>
-    <td width="30%">
-      <img src="docs/UI/original.png" alt="Conversation Screen" width="100%" />
-      <p align="center">Conversation Screen</p>
-    </td>
-    <td width="30%">
-      <img src="docs/UI/original.png" alt="Conversation Screen" width="100%" />
-      <p align="center">Conversation Screen</p>
-    </td>
-  </tr>
-</table>
-
 <p align="center">
   <a href="docs/ui-gallery.md">
     <img 
