@@ -36,7 +36,7 @@ class AppTheme {
         bodyMedium: TextStyle(color: Pallete.mainFontColor, fontSize: 14),
       ),
       iconTheme: const IconThemeData(color: Pallete.mainFontColor),
-      cardTheme: CardTheme(
+      cardTheme: CardThemeData(
         color: Pallete.featureBoxColor.withOpacity(0.8),
         elevation: 4,
         shape: RoundedRectangleBorder(
