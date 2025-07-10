@@ -1,0 +1,31 @@
+name: Process Images
+
+# You can trigger this workflow on various events
+on:
+# Runs when images are added or modified in docs/ui/
+push:
+paths:
+- 'docs/ui/**.png'
+# Allows manual trigger from Actions tab
+workflow_dispatch:
+# Runs when PR is opened/updated with image changes
+pull_request:
+paths:
+- 'docs/ui/**.png'
+
+jobs:
+process-images:
+name: Process UI Images
+uses: Falconsoft25/automative-and-manual-scripts/.github/workflows/image-processor.yml@main
+with:
+# All parameters are optional and have defaults, but you can customize them:
+image_folder: 'docs/ui/'     # Default location of your UI images
+readme_path: 'README.md'     # Path to your README file
+enable_gallery: true         # Enable/disable gallery generation
+check_size: true             # Enable size checking
+max_width: 290              # Maximum width for images
+check_radius: true           # Enable radius checking
+target_radius: 6.5           # Border radius percentage
+fast_check: true             # Enable fast check mode
+secrets:
+IMAGE_PROCESS_PAT: ${{ secrets.IMAGE_PROCESS_PAT }}  # Required: GitHub token with repo access
