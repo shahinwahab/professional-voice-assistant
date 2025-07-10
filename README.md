@@ -65,7 +65,6 @@ While built on sophisticated technology, the Professional Voice Assistant presen
 |----------|----------|
 | ![Image1](docs/UI/original.png) | ![Image2](docs/UI/original.png) |
 
-
 <p align="center">
   <a href="docs/ui-gallery.md">
     <img 
@@ -77,7 +76,22 @@ While built on sophisticated technology, the Professional Voice Assistant presen
   </a>
 </p>
 
-
 *Professional Voice Assistant - Brings future of AI interaction to you*
+
+## UI Preview
+
+|login screen 1 🔽|signup screen 2 🔽|
+|:---------------:|:---------------:|
+|![login screen ](docs/ui/login-screen-1.png)|![signup screen ](docs/ui/signup-screen-2.png)|
+
+|home screen 3 🔽|conversation screen 4 🔽|
+|:---------------:|:---------------:|
+|![home screen ](docs/ui/home-screen-3.png)|![conversation screen ](docs/ui/conversation-screen-4.png)|
+
+<p align="center">
+  <a href="docs/ui-gallery.md">
+    <img src="https://img.shields.io/badge/See%20All%20UI%20Images-2b90d9" alt="See All UI Images" width="200" height="50">
+  </a>
+</p>
 
 > **Repository created on:** 2025-05-26, 07:01 (UTC+03)
