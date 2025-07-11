@@ -94,4 +94,6 @@ While built on sophisticated technology, the Professional Voice Assistant presen
   </a>
 </p>
 
+---
+
 > **Repository created on:** 2025-05-26, 07:01 (UTC+03)
