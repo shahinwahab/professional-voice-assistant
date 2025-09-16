@@ -30,10 +30,7 @@ Powered by **Google Gemini API** and **Firebase**, it supports real-time speech 
 
 professional-voice-assistant/
 ├── docs/               # Documentation & UI previews
-├── lib/                # Flutter source code
-├── android/            # Android-specific code
-├── ios/                # iOS-specific code
-└── web/                # Web build
+└── flutter-code/                # Flutter source code
 
 ````
 
