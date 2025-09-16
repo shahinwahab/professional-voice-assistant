@@ -45,7 +45,7 @@ Whether learning, working or multitasking, it gives users faster, smarter and mo
 
 ## ⚠️ Note
 
-This public repository is based on a template/demo version. The original template **did not include login/logout, conversation continuity, memory of past conversations or AI integration with Gemini**.  
+This public repository is based on a template/demo that had only one message conversation and chatgpt integrated it was not remembering anything, i added **login/logout, conversation continuity, memory of past conversations and AI integration with Gemini**, in short 80% of the features are added by me and other was only basic front-end template. 
 
 all of these features have been **added and implemented** to showcase a complete, professional application.  
 
