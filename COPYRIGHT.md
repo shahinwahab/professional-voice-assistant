@@ -1,13 +1,14 @@
-## Copyright © 2025 falcon12120
+## Copyright © 2025 Shahin Wahab
 
-All rights reserved.
+This repository contains portfolio demonstrations of work created for clients.
 
-This repository may contain screenshots, demos, or selected assets from work done for clients or projects.  
-All underlying content, including full source code, designs, and assets, remains proprietary and protected.  
+All projects and content remain the property of respective clients  
+and are shown here with permission for portfolio purposes only.
 
-Any reproduction, distribution, modification, or unauthorized use in whole or in part is strictly prohibited.  
+Unauthorized reproduction, distribution, or commercial use is strictly 
+prohibited.
 
 Violators may face legal consequences, including but not limited to:
-- 🚫 DMCA takedowns  
-- 🔒 Platform bans  
+- 🚫 DMCA takedowns
+- 🔒 Platform bans
 - ⚖️ Prosecution to the fullest extent of the law
