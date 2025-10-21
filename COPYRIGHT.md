@@ -3,7 +3,7 @@
 This repository contains portfolio demonstrations of work created for clients.
 
 All projects and content remain the property of respective clients  
-and are shown here with permission for portfolio purposes only.
+and are shown here with permission of the clients for portfolio purposes only.
 
 Unauthorized reproduction, distribution, or commercial use is strictly 
 prohibited.
